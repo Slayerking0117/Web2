@@ -1,0 +1,34 @@
+.about-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5rem 0 5rem 0;
+    gap: 2rem;
+    align-items: center;
+
+}
+.about-picture{
+    width: 30%;
+    transform: scaleX(-1);
+}
+.about-info{
+    max-width: 30%;
+}
+
+.about-description{
+    font-size: 12px;
+    padding: 15px 0;
+}
+
+.about-quote{
+    color: orange;
+    font-weight: 100;
+}
+
+.about li{
+    list-style: disc;;
+}
+.about li::marker{
+    color: orange;
+    font-size: 10px;
+}

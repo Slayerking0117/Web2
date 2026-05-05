@@ -1,0 +1,10 @@
+@import "reset.css";
+@import "variables.css";
+@import "responsive.css";
+@import "base.css";
+@import "/src/css/components/upper-nav.css";
+@import "/src/css/components/table.css";
+@import "/src/css/components/hero.css";
+@import "/src/css/components/about.css";
+@import "/src/css/components/multimedia.css";
+@import "/src/css/components/buttom-nav.css"
