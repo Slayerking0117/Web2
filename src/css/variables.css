@@ -1,0 +1,5 @@
+:root{
+    --copper-color:linear-gradient(135deg,black,#3aa9a9,#50ccb7,#9be4a1, #cdf89f, #cdf89f, #9be4a1, #50ccb7, #3aa9a9, black);
+    --black-color:linear-gradient(135deg,rgb(46, 46, 46),black ,black,black,rgb(46, 46, 46));
+}
+

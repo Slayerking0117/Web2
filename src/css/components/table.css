@@ -1,0 +1,40 @@
+.strong-table{
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.6 ease;
+}
+.strong-table:hover{
+    color: orange;
+}
+.schedul-container{
+    display: flex;
+    justify-content: center;
+    background: var(--black-color);
+    padding: 50px 0;
+
+}
+.table {
+    background-color: rgba(15, 16, 22);
+    color: white;
+    border-collapse: collapse;
+    width: 60%;
+}
+.table th,
+.table td {
+    border: 0.1px solid grey;
+    padding: 5px 10px;
+    text-align: center;
+ }
+.table th{
+    border: 0;
+    
+}
+.table thead tr {
+background:var(--copper-color) ;
+}
+
+.table .table-title{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
